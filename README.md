@@ -116,7 +116,7 @@ Run streamlit web front-end
 
 ## 🖼 Screenshots
 
-![App Screenshot](front-end.jpg)
+![App Screenshot](front-end.png)
 
 
 ## 🔮 Future Enhancements
